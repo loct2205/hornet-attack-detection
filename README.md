@@ -27,7 +27,7 @@ Mô tả tổng quan luồng xử lý hornet detection từ Raspberry Pi Camera 
 ### Sample detection images
 
 <p float="left">
-  <img src="assets/hornet_detect1.png" width="300"/>
-  <img src="assets/hornet_detect2.png" width="300"/>
-  <img src="assets/hornet_detect3.png" width="300"/>
+  <img src="assets/hornet_detect1.jpg" width="300"/>
+  <img src="assets/hornet_detect2.jpg" width="300"/>
+  <img src="assets/hornet_detect3.jpg" width="300"/>
 </p>
