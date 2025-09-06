@@ -17,3 +17,17 @@ Deployed on **Raspberry Pi** with **camera integration**, **OpenCV preprocessing
 - Raspberry Pi 4 (tested)
 - Raspberry Pi Camera Module
 - LED + Buzzer (GPIO connected)
+
+## Pipeline Diagram
+
+Mô tả tổng quan luồng xử lý hornet detection từ Raspberry Pi Camera đến cảnh báo LED + Buzzer.
+
+![Pipeline Diagram](assets/pipeline_diagram.png)
+
+### Sample detection images
+
+<p float="left">
+  <img src="assets/hornet_detect1.png" width="300"/>
+  <img src="assets/hornet_detect2.png" width="300"/>
+  <img src="assets/hornet_detect3.png" width="300"/>
+</p>
